@@ -3612,6 +3612,16 @@
 		)
 		(uuid "017a2d5d-f3d6-4ce3-a3cd-258289ed77c4")
 	)
+	(label "GPIO26"
+		(at 218.44 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "03ea7612-074e-4e18-8c0f-db739d68dee1")
+	)
 	(label "GPIO25"
 		(at 110.49 67.31 180)
 		(effects
@@ -3651,16 +3661,6 @@
 			(justify left bottom)
 		)
 		(uuid "242a7867-6028-420f-8e24-66b7c9e04d12")
-	)
-	(label "GPIO26"
-		(at 218.44 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2e2ab02c-97a2-4889-9274-b85676d75917")
 	)
 	(label "SCL"
 		(at 205.74 46.99 270)
@@ -3702,26 +3702,6 @@
 		)
 		(uuid "38093a91-c54e-413c-86fa-0be55d1e2ce5")
 	)
-	(label "GPIO25"
-		(at 218.44 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4dbb707e-b3a2-495b-9940-0e781cd5a783")
-	)
-	(label "GPIO27"
-		(at 218.44 133.35 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "53ecaf99-5543-406a-9208-edcf85bf1ad8")
-	)
 	(label "GPIO33"
 		(at 218.44 138.43 0)
 		(effects
@@ -3751,6 +3731,16 @@
 			(justify left bottom)
 		)
 		(uuid "78cce5d3-a6d0-4d0a-8351-e0540d174cb0")
+	)
+	(label "GPIO27"
+		(at 218.44 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a0e5d1c-6501-40fe-a2f7-3af761079a88")
 	)
 	(label "OUTR"
 		(at 135.89 69.85 0)
@@ -3851,6 +3841,16 @@
 			(justify left bottom)
 		)
 		(uuid "d5cf8c8b-7758-455d-840c-847597949ea8")
+	)
+	(label "GPIO25"
+		(at 218.44 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0685d7c-46e5-4289-8698-a0d8909ef02d")
 	)
 	(label "GPIO26"
 		(at 110.49 72.39 180)
@@ -4011,7 +4011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 205.74 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4175,7 +4175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Molex_104031-0811"
 			(at 22.86 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -4512,7 +4512,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 107.95 161.5948 0)
 			(hide yes)
 			(show_name no)
@@ -4751,7 +4751,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 56.8452 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5519,7 +5519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 270.51 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -5678,7 +5678,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 88.9 180.848 90)
 			(hide yes)
 			(show_name no)
@@ -6075,7 +6075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 270.51 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6157,7 +6157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 155.9052 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -6511,7 +6511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 55.5752 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -6593,7 +6593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical"
 			(at 266.7 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6722,7 +6722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 270.51 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -6881,7 +6881,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal"
 			(at 31.75 63.5 0)
 			(hide yes)
 			(show_name no)
