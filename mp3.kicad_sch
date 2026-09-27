@@ -3277,10 +3277,6 @@
 		(uuid "10c91e7c-3803-49c0-ad32-2bd18fc11044")
 	)
 	(no_connect
-		(at 218.44 143.51)
-		(uuid "158d2815-eb29-4f85-8c10-f85bfda555e7")
-	)
-	(no_connect
 		(at 187.96 92.71)
 		(uuid "1c147477-2eb2-415b-afc0-e72025300136")
 	)
@@ -3387,6 +3383,10 @@
 	(no_connect
 		(at 218.44 102.87)
 		(uuid "de586f43-a24c-497a-94d0-a5041bdd9125")
+	)
+	(no_connect
+		(at 218.44 110.49)
+		(uuid "e7e3488d-1f27-45de-81d4-cea775ff7577")
 	)
 	(no_connect
 		(at 74.93 152.4)
@@ -3642,6 +3642,16 @@
 		)
 		(uuid "0cbb3263-08e2-4776-aefd-b8ecf3d7930b")
 	)
+	(label "GPIO16"
+		(at 218.44 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10e68a95-cad5-40e7-8fb7-88f202bfaadf")
+	)
 	(label "MISO"
 		(at 74.93 154.94 0)
 		(effects
@@ -3891,16 +3901,6 @@
 			(justify left bottom)
 		)
 		(uuid "ff03b23a-6e9e-4d93-8776-69fdedb3e981")
-	)
-	(label "GPIO16"
-		(at 218.44 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ff5c858e-2bd4-4833-88cf-99c58ec1b290")
 	)
 	(symbol
 		(lib_id "power:+3V3")
