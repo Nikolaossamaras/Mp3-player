@@ -13,3 +13,10 @@ you can download the step files from the CAD folder
 
 ## Firmware
 to import the firmare to the board just plug the type c usb connector to the plug and while pressing the boot button upload the code from arduino.ide to the wroom. After the upload restart the pcb.
+
+## PCB
+download the pcb kicad files from the PCB folder
+<img width="265" height="272" alt="image" src="https://github.com/user-attachments/assets/63b2cda9-8cdf-4bf0-8b79-ec8b3d2f95d4" />
+
+## Licence
+this project is under the MIT licence
