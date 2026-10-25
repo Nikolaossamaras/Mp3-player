@@ -16,6 +16,7 @@ to import the firmare to the board just plug the type c usb connector to the plu
 
 ## PCB
 download the pcb kicad files from the PCB folder
+
 <img width="265" height="272" alt="image" src="https://github.com/user-attachments/assets/63b2cda9-8cdf-4bf0-8b79-ec8b3d2f95d4" />
 
 ## Licence
