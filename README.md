@@ -10,3 +10,6 @@ To be honest it does not have any new/special function , but the thing that make
 ## Step files
 you can download the step files from the CAD folder
 ![alt text](/images/image.png)
+
+## Firmware
+to import the firmare to the board just plug the type c usb connector to the plug and while pressing the boot button upload the code from arduino.ide to the wroom. After the upload restart the pcb.
