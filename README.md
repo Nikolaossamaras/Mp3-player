@@ -9,4 +9,4 @@ To be honest it does not have any new/special function , but the thing that make
 
 ## Step files
 you can download the step files from the CAD folder
-![alt text](image.png)
+![alt text](/images/image.png)
