@@ -1,0 +1,21 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"Boot1,SW1,SW2,SW3",4,SW_Push,,,,Button_Switch_THT:SW_PUSH_6mm,
+"C1,C4",2,100nF,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,
+"C2,C3",2,4.7 µF,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,
+"C5,C6",2,100nf,,,,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,
+C7,1,10μf,,,,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,
+"C8,C9",2,10μf,,,,Capacitor_SMD:C_0805_2012Metric,
+C10,1,100μf,,,,Capacitor_SMD:CP_Elec_6.3x5.4,
+J1,1,Micro_SD_Card,,,,Connector_Card:microSD_HC_Molex_104031-0811,https://www.we-online.com/components/products/datasheet/693072010801.pdf
+J2,1,AudioPlug3,,,,Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal,
+J3,1,Conn_01x04,,,,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,
+J4,1,USB_C_Receptacle_USB2.0_16P,,,,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+J5,1,battery,,,,Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,
+R1,1,10k,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+R2,1,Potentiometer,,,,Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical,
+"R3,R4",2,5.1kΩ,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+R5,1,10kΩ,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,
+U1,1,ESP32-WROOM-32,,,,RF_Module:ESP32-WROOM-32,https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+U2,1,PCM5100A,,,,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,https://www.ti.com/lit/ds/symlink/pcm5100a.pdf
+U3,1,CP2102N-Axx-xQFN24,,,,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+U4,1,AP2112K-3.3,,,,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf

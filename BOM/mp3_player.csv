@@ -1,0 +1,17 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C107671,PCM5102APWR,TI,TSSOP-20,,2 I2S 1.8V~3.3V TSSOP-20 ADCs/DACs - Special Purpose RoHS,yes,1,1,1,1.395,1.4,https://www.lcsc.com/product-detail/C107671.html
+2,C969151,CP2102N-A02-GQFN24R,SILICON LABS,QFN-24-EP(4x4),,USB to UART QFN-24-EP(4x4) Controllers RoHS,yes,1,1,1,1.991,1.99,https://www.lcsc.com/product-detail/C969151.html
+3,C51118,AP2112K-3.3TRG1,DIODES,SOT-25-5,,"3.3V Positive Fixed SOT-25-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.179,0.9,https://www.lcsc.com/product-detail/C51118.html
+4,C3020560,USB4105-GF-A,Global Connector Technology,SMD,,"USB 2.0 1 12P -40℃~+85℃ Surface Mount, Right Angle SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,1,1,1,1.3092,1.31,https://www.lcsc.com/product-detail/C3020560.html
+5,C15850,CL21A106KAYNNNE,Samsung Electro-Mechanics,805,,10uF ±10% 25V Ceramic Capacitor X5R 0805,yes,20,20,20,0.0429,0.86,https://www.lcsc.com/product-detail/C15850.html
+6,C49233126,RVT6.3V100M5X5,JIERR,"SMD,D5xL5.4mm",,100uF ±20% 6.3V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,20,20,20,0.0266,0.53,https://www.lcsc.com/product-detail/C49233126.html
+7,C2897367,PM254-1-04-Z-8.5,HCTL,"Through Hole,P=2.54mm",,"-40℃~+105℃ Through Hole 4P 3A 8.5mm 1x4P 2.54mm Top 1 Square Hole Through Hole,P=2.54mm Headers, Receptacles, Female Sockets RoHS",yes,5,5,5,0.1167,0.58,https://www.lcsc.com/product-detail/C2897367.html
+8,C701341,ESP32-WROOM-32E-N4,ESPRESSIF,"SMD,25.5x18mm",,"2.4GHz On-board PCB Antenna -98dBm SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",yes,1,1,1,3.792,3.79,https://www.lcsc.com/product-detail/C701341.html
+9,C4992459,SJ1-3533NG,CUI,"Through Hole,8.2x14mm",,1A 12V,yes,1,1,1,1.6569,1.66,https://www.lcsc.com/product-detail/C4992459.html
+10,C585350,1040310811,MOLEX,SMD,,Micro SD card (TF card) Connector and Ejector Push-Pull Surface Mount,yes,1,1,1,0.834,0.83,https://www.lcsc.com/product-detail/C585350.html
+11,C234180,22232021,MOLEX,"Through Hole,P=2.54mm",,"Through Hole 500V 2 1 2.54mm 4A Tin 2P White 1x2P Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,5,5,5,0.1162,0.58,https://www.lcsc.com/product-detail/C234180.html
+12,C527620,RDER71H104K0M1H03A,muRata,"Through Hole,P=5mm",,"100nF ±10% 50V Ceramic Capacitor X7R Through Hole,P=5mm",yes,5,5,5,0.1736,0.87,https://www.lcsc.com/product-detail/C527620.html
+13,C346926,NXB16V10M5*11 2.5TP,SAMYOUNG,"Through Hole,D5xL11mm",,"10uF 16V Aluminum Electrolytic Capacitors Through Hole,D5xL11mm 2000hrs@105℃",yes,10,10,10,0.08,0.8,https://www.lcsc.com/product-detail/C346926.html
+,,,,,,battery,,,,,11$,,https://grobotronics.com/li-po-battery-3-7v-2000mah-molex-2-5mm.html
+,,,,,,,,,,,,,
+TOTAL:,,,,,,,,,,,$40 ,,
